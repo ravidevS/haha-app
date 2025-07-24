@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Head, Link } from '@inertiajs/vue3';
 </script>
-echo "ravi";
+
 <template>
     <Head title="Welcome">
         <link rel="preconnect" href="https://rsms.me/" />
